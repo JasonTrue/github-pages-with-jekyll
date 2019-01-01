@@ -1,3 +1,7 @@
-# Welcome to my blog
+# Hello
 
-I'm glad you are here. I plan to talk about ...
+Getting a quick start
+
+- Bully
+- For
+- You
