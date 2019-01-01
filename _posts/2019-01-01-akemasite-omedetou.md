@@ -9,7 +9,7 @@ I hope you'll have a good one.
 
 This is just an experiment and I hope you didn't come here looking for anything insightful.
 
-My actual blog [Pursuing My Passions](https://blog.jagaimo.com)is ancient. I hope to write something for it by the 10 year anniversary of my last post.
+My actual blog [Pursuing My Passions](https://blog.jagaimo.com) is ancient. I hope to write something for it by the 10 year anniversary of my last post.
 
 Here's some random code from a personal project that I'm posting because it's only slightly embarrassing.
 
