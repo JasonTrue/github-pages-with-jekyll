@@ -1,6 +1,6 @@
 ---
 title: "It's the beginning of a new year"
-date: 2019-01-1
+date: 2019-01-01
 ---
 
 # It's the beginning of a new year
