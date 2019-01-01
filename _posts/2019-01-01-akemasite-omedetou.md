@@ -1,3 +1,8 @@
+---
+title: "It's the beginning of a new year"
+date: 2019-01-1
+---
+
 # It's the beginning of a new year
 
 I hope you'll have a good one.
